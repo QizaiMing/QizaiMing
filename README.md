@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**QizaiMing/QizaiMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/juanchdzl/">
+  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/juanchdzl/">
+  <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.codewars.com/users/QizaiMing">
+  <img align="left" alt="My Codewars" width="22px" src="https://api.iconify.design/simple-icons:codewars.svg" />
+</a>
+<a href="mailto:mahnimex@gmail.com">
+  <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://platzi.com/@Juanexo/">
+  <img align="left" alt="My Platzi" width="22px" src="https://api.iconify.design/simple-icons:platzi.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am Juan Chacon
+- A Backend Web Development enthusiast.
+- A Software Engineering lover. 
+- Currently working on some of my cool side projects based on Web Development.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
