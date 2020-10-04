@@ -9,9 +9,6 @@
 <a href="https://www.codewars.com/users/QizaiMing">
   <img align="left" alt="My Codewars" width="22px" src="https://api.iconify.design/simple-icons:codewars.svg" />
 </a>
-<a href="mailto:mahnimex@gmail.com">
-  <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 <a href="https://platzi.com/@Juanexo/">
   <img align="left" alt="My Platzi" width="22px" src="https://api.iconify.design/simple-icons:platzi.svg" />
 </a>
@@ -23,3 +20,5 @@
 - A Software Engineering Lover (Python / Go).
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for job opportunities. I love to learn and contribute in any and every possible way.
+<img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+mahnimex@gmail.com
