@@ -19,6 +19,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Juan Chacon
-- A software developer that loves Python and React
+- A software developer that loves Python
 - Currently working on a payment platform in order to solve a bussiness problem.
 - I'm currently looking for job opportunities. I love to learn and contribute in any and every possible way.
