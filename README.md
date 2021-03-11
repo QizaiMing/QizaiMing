@@ -20,5 +20,5 @@
 
 ### I am Juan Chacon
 - A software developer that loves Python
-- Currently working on a payment platform in order to solve a bussiness problem.
-- I'm currently looking for job opportunities. I love to learn and contribute in any and every possible way.
+- Currently working solving business problems with code.
+- I'm currently looking for job opportunities. I like to learn and contribute in any and every possible way.
